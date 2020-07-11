@@ -6,7 +6,7 @@
     "node": "12.x"
   },
 "scripts": {
-    "start": "node bot.js"
+    "start": "node app.js"
   },
   "repository": {
     "url": "https://github.com/aidanhartman/web"
