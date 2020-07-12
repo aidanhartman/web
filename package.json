@@ -9,7 +9,7 @@
     "start": "node app.js"
   },
 "dependencies" : {
-"express.js": "4.x"
+"express": "4.x"
 },
   "repository": {
     "url": "https://github.com/aidanhartman/web"
